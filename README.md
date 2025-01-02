@@ -1,5 +1,5 @@
-#Game of Tic-Tac-Tao with 2 versions
-##App Screenshots
+# Game of Tic-Tac-Tao with 2 versions
+## App Screenshots
 
 <table>
   <tr>
